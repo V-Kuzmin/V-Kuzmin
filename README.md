@@ -1,4 +1,10 @@
-### Hi there 👋
+![Github stats](https://github-readme-stats.vercel.app/api?username=V-Kuzmin&theme=tokyonight&show_icons=true&count_private=true)
+
+## About
+More than 3 years of programming experience in C/C++, currently working at Constant Robotics ltd on video processing libraries.
+
+![Profile views](https://gpvc.arturio.dev/V-Kuzmin)
+
 
 <!--
 **V-Kuzmin/V-Kuzmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
