@@ -1,7 +1,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=V-Kuzmin&theme=tokyonight&show_icons=true&count_private=true)
 
 ## About
-More than 3 years of programming experience in C/C++, currently working at Constant Robotics ltd on video processing libraries.
+More than 4 years of programming experience in C/C++, currently working at Constant Robotics ltd on video processing libraries.
 
 ![Profile views](https://gpvc.arturio.dev/V-Kuzmin)
 
